@@ -1,9 +1,6 @@
-package main;
-import java.util.*;
-import java.lang.*;
+package network;
 import java.io.*;
 import java.net.*;
-import java.util.Date;
 
 public class ClientHandler extends Thread{
 	Socket server;
